@@ -93,14 +93,6 @@ This repository presents an advanced, collaborative agent-based system for stock
 | Middle-Class (500k)   | 59.38%           | 30% / 50% / 20%               | Moderate     | 1.1   |
 | Middle-Class (50k)    | 41.84%           | 80% / 0% / 20%                | Low          | 0.8   |
 
-#### Risk Distribution Visualization
-
-![Risk Distribution Institutional](./images/institutional.png)
-*Figure 4: Risk Distribution for Institutional Investor Portfolio*
-
-![Risk Distribution Middle Class](./images/middleclass.png)
-*Figure 5: Risk Distribution for Middle-Class Investor Portfolio*
-
 ## Authors
 
 - Sri Sethu Madhavan S (Department of CSE, Srinivasa Ramanujan Centre, SASTRA Deemed University, India)
